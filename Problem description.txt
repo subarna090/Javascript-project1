@@ -1,0 +1,15 @@
+Create a page with JavaScript to do the following.  These can all be on one page. 
+
+1. Prompt the user for their name.
+
+2. Use a pop-up box to welcome the user by name.
+
+3. Display the current date on the page in the following format: October 30, 2000.  Do not display the time.  Do not "hard code" the date; if I load the page tomorrow, I should get a different date than if I load it today.
+
+4. Display the last modified date of the document.
+
+5. Put some useful advice, on any subject, in the status line of the browser.
+
+6. Display a message saying Good Morning if it is in the morning, Good Afternoon if it is in the afternoon, and Good Evening if it is in the Evening.
+
+<src> http://www.billpegram.com/Javascript/javascript_exercises.html <src>
